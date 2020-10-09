@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="uno_juegoCartas"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uno_juegoCartas">
+				<Option output="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/uno_juegoCartas" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 uno_juegoCartas"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uno_juegoCartas/fast">
+				<Option output="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/uno_juegoCartas" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 uno_juegoCartas/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/carta/Carta.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/carta/Carta.h">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/carta/ListaCarta.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/carta/ListaCarta.h">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/carta/NodoCarta.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/carta/NodoCarta.h">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/carta/PilaCarta.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/carta/PilaCarta.h">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/juego/ReglasJuego.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/juego/ReglasJuego.h">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/jugador/ColaJugador.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/jugador/ColaJugador.h">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/jugador/Jugador.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/jugador/Jugador.h">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/jugador/ListaJugador.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/jugador/ListaJugador.h">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/jugador/ListaJugadorOrdenada.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/jugador/ListaJugadorOrdenada.h">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/jugador/NodoJugador.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/bl/jugador/NodoJugador.h">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/tl/Gestor.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/tl/Gestor.h">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/ui/main.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/ui/utilitario/Validar.cpp">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/src/ui/utilitario/Validar.h">
+			<Option target="uno_juegoCartas"/>
+		</Unit>
+		<Unit filename="/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

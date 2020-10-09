@@ -1,0 +1,3 @@
+/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mmartinez/Documents/GitHub/estructas_datos_I/uno-juegoCartas/cmake-build-debug/CMakeFiles/uno_juegoCartas.dir
